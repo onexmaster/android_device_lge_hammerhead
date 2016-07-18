@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo aospb_hammerhead-userdebug
-add_lunch_combo aospb_hammerhead-eng
+add_lunch_combo atomic_hammerhead-userdebug
+add_lunch_combo atomic_hammerhead-eng
